@@ -21,7 +21,8 @@ const Badges = ({ status }: IStatus) => {
           <Badge
             className="wrpBadge"
             content={label}
-            style={{ backgroundColor: `${color}`, color: "#000" }}
+            style={{ backgroundColor: `${color}`}}
+            
           />
         );
       })}
