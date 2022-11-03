@@ -1,3 +1,15 @@
+# Descargar repositorio
+Clonar mediante la URL prevista en github
+git clone + [URL]
+
+# Instalar paquetes de Node
+En consola, dentro de la ruta del repositorio, dentro del proyecto, ingresar:
+NPM INSTALL
+
+# Levantar React
+NPM START
+
+
 # Finalis UI Code Challenge
 
 This challenge is intended for UI Web developer candidates at Finalis, the main idea is to evaluate your experience, workflow and skills when it comes to translate a mockup to an actual web component.
