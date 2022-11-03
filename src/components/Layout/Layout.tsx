@@ -12,7 +12,7 @@ export const Layout = ({ children }: { children: React.ReactNode }) => {
             <Text color="white" fontSize="3xl" fontWeight="medium">
               Finalis
             </Text>
-            <Text fontSize="2xl" color="white" fontWeight="light">
+            <Text fontSize={{base:'2xl'}} color="white" fontWeight="light">
               | UI Code Challenge
             </Text>
           </HStack>
