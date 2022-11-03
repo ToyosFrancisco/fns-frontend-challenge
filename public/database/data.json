@@ -1,0 +1,38 @@
+[
+    {
+        "title":"Crypto",
+        "text":"Centralized crypto-derivatives exchange with $3,000,000 in TTM revenue and $1,265,000 in TTM profit that caters to institutional clients and with strategic partnerships. It provides futures & spread trading using the same implied order book technology found on the CME and is unique to the crypto space.",
+        "status":[
+            {
+                "label":"Open To Offers",
+                "color":"#C4D7FC"
+            },
+            {
+                "label":"Under Offers",
+                "color":"#C7FFF1"
+            }
+        ],
+        "metadata":[
+            {
+                "title":"Annual recurring revenue",
+                "icon":"uil uil-usd-circle",
+                "article":"$ 2.5 M"
+            },
+            {
+                "title":"Number of customers",
+                "icon":"uil uil-users-alt",
+                "article":"100 - 1,000"
+            },
+            {
+                "title":"Date founded",
+                "icon":"uil uil-calendar-alt",
+                "article":"Oct 201"
+            },
+            {
+                "title":"Team Size",
+                "icon":"uil uil-sitemap",
+                "article":"12"
+            }
+        ]
+    }
+]
