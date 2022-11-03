@@ -1,0 +1,5 @@
+export { default as Badges } from './Badgets/Badges'
+export { default as Widget } from './Widgets/Widget'
+export { default as Header } from './Header/Header'
+export { default as Footer } from './Footer/Footer'
+export { default as Paragraph } from './Paragraph/Paragraph'
