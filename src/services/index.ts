@@ -7,7 +7,7 @@ export const fetchData = async () => {
 
     return response;
   } catch (ex: any) {
-    console.log("[fetchWidgetData() ex]", ex);
+    console.log("[fetchData() ex]", ex);
 
     throw new Error(ex.message);
   }
