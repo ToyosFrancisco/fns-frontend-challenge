@@ -34,7 +34,7 @@ export const Home = () => {
   }, []);
 
   return (
-    <Container>
+    
       <Content>
         <FlexboxGrid justify="center" align="middle">
           <Style.WrpContent>
@@ -72,6 +72,6 @@ export const Home = () => {
           </Style.WrpContent>
         </FlexboxGrid>
       </Content>
-    </Container>
+    
   );
 };

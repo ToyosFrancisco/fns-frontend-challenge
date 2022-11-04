@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const WrpContent = styled.div`
-  margin: 76px;
+  margin: 96px;
 
   width:700px;
 
