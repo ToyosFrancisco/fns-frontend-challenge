@@ -41,16 +41,16 @@ export const Home = () => {
             <Panel bordered bodyFill>
               <Style.WrapperPanel>
                 <Style.Body>
-                  {data.map((data, idx) => (
-                    <Header title={data.title} key={idx} />
+                  {data.map(({title}:IData, idx) => (
+                    <Header title={title} key={idx} />
                   ))}
 
                   {data.map(({ status }: IData, idx) => {
                     return <Badges status={status} key={idx} />;
                   })}
 
-                  {data.map((data, idx) => (
-                    <Paragraph text={data.text} key={idx} />
+                  {data.map(({text}:IData, idx) => (
+                    <Paragraph text={text} key={idx} />
                   ))}
 
                   <Grid>
