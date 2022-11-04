@@ -28,7 +28,6 @@ export const WrapperPanel = styled.div`
 export const Divider = styled.hr`
   color: #EDEDF7;
   heigth: 1px;
-  margin: 20px;
 `;
 
 export const ContainerWidget = styled.div`
